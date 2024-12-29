@@ -11,6 +11,14 @@ This is the set of cards I found inside:
 ## Z80 (SIB-80) Card
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/Z80_top.jpg)
 
+Seems to be the hearth of the machine.
+With:
+- Z80 CPU,
+- 64k RAM,
+- 2k ROM.
+The ROM mentions CP/M 2.2
+![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/CPM.jpg)
+
 
 ## 8085 Card
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/8085_top.jpg)
