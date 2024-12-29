@@ -1,3 +1,4 @@
+# 8080 (?) Designers Kit (?)
 It seems to be a Z80 based, CP/M running computer, with FDD support, and RS232 serial interface. And a test board with 8085 CPU (although it is branded by '8080')
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/cage_front.jpg)
 
@@ -13,6 +14,10 @@ This is the set of cards I found inside:
 
 ## 8085 Card
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/8085_top.jpg)
+
+
+## ROM Card
+![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/ROM_top.jpg)
 
 
 ## FDC Card
