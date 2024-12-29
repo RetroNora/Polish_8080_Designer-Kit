@@ -3,9 +3,9 @@ It seems to be a Z80 based, CP/M running computer, with FDD support, and RS232 s
 
 This is the set of cards I found inside:
 
-##Simple Riser Card
+###Simple Riser Card
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/riser_top.jpg)
 
 
-##Simple Riser Card
+###Simple Riser Card
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/riser_top.jpg)
