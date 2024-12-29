@@ -8,7 +8,7 @@ This is the set of cards I found inside:
 
 
 ## Z80 (SIB-80) Card
-![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/z80_top.jpg)
+![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/Z80_top.jpg)
 
 
 ## 8085 Card
