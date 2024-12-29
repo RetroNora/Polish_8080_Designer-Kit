@@ -7,6 +7,8 @@ This is the set of cards I found inside:
 ## Simple Riser Card
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/riser_top.jpg)
 
+Just a passive riser :)
+
 
 ## Z80 (SIB-80) Card
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/Z80_top.jpg)
