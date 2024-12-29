@@ -17,6 +17,7 @@ With:
 - 64k RAM,
 - 2k ROM.
 The ROM mentions CP/M 2.2
+
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/CPM.jpg)
 
 
