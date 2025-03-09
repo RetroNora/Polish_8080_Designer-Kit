@@ -13,7 +13,7 @@ Just a passive riser :)
 ## Z80 (SIB-80) Card
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/Z80_top.jpg)
 
-Seems to be the hearth of the machine.
+Seems to be the heart of the machine.
 With:
 - Z80 CPU,
 - 64k RAM,
