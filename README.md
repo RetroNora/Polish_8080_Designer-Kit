@@ -34,6 +34,8 @@ The ROM mentions CP/M 2.2
 ## FDC Card
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/FDC_top.jpg)
 
+An 5,25 inch floppy controller board based on WD2797A-PL
+
 
 ## DISC DRIVER Card
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/DISC_DRIVER_top.jpg)
