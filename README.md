@@ -27,12 +27,19 @@ The ROM mentions CP/M 2.2
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/8085_top.jpg)
 
 This card seems to be the test card for 8080/8085 testing/debugging. 
+
 This card comes with:
+
 -8085,
+
 -8255 - it seems to control the CPU and it is connected to system bus,
+
 -2K of SRAM,
+
 -2K of ROM.
+
 Both SRAM and ROM are addressed by 8085 but their databus is connected to Port A of the PPI.
+
 
 ## ROM Card
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/ROM_top.jpg)
