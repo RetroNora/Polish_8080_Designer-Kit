@@ -26,6 +26,13 @@ The ROM mentions CP/M 2.2
 ## 8085 Card
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/8085_top.jpg)
 
+This card seems to be the test card for 8080/8085 testing/debugging. 
+This card comes with:
+-8085,
+-8255 - it seems to control the CPU and it is connected to system bus,
+-2K of SRAM,
+-2K of ROM.
+Both SRAM and ROM are addressed by 8085 but their databus is connected to Port A of the PPI.
 
 ## ROM Card
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/ROM_top.jpg)
@@ -43,3 +50,5 @@ An 5,25 inch floppy controller board based on WD2797A-PL
 
 ## UART Card
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/UART_top.jpg)
+
+UART card based on 8251. It seems to be hardwired for 19200 bps. The back of the unit has two DB9 for serial connection. One is simple RX/TX/GND and the second one has flow control implemented.
