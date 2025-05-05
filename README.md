@@ -42,7 +42,7 @@ Both SRAM and ROM are addressed by 8085 but their databus is connected to Port A
 
 
 ## FDC Card
-![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/HiRes/ROM_front.jpg)
+![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/HiRes/FDC_front.jpg)
 
 An 5,25 inch floppy controller board based on WD2797A-PL
 
