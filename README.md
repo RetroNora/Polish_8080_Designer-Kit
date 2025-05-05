@@ -18,6 +18,7 @@ With:
 - Z80 CPU,
 - 64k RAM,
 - 2k ROM.
+
 The ROM mentions CP/M 2.2
 
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/CPM.jpg)
@@ -39,6 +40,8 @@ Both SRAM and ROM are addressed by 8085 but their databus is connected to Port A
 
 ## ROM Card
 ![alt text](https://github.com/RetroNora/Polish_8080_Designer-Kit/blob/main/PICS/HiRes/ROM_front.jpg)
+
+This card is a little mistery to me, there is less Z80 address lines connected to the backplane then the address space of the 2716s here.
 
 
 ## FDC Card
